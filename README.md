@@ -1,4 +1,4 @@
-# Advanced Empirical Finance
+# Advanced Empirical Finance 
 
 **GitHub Repository to the Coding Sessions**
 
