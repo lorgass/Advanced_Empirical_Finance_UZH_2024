@@ -1,8 +1,8 @@
 book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
-edit: https://github.com/lorgass/Advanced_Empirical_Finance_UZH_2024/edit/master/%s
-view: https://github.com/lorgass/Advanced_Empirical_Finance_UZH_2024/blob/master/%s
+edit: https://github.com/lorgass/Advanced_Empirical_Finance_UZH_2024/edit/New/%s
+view: https://github.com/lorgass/Advanced_Empirical_Finance_UZH_2024/blob/New/%s
 language:
   ui:
     chapter_name: "Chapter "
