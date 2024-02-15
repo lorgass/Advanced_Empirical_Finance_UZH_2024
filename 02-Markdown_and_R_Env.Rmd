@@ -1,6 +1,6 @@
 # The Programming Environment
 
-The first week covers two baseline subjects required to work within the field of empirical financial applications. 
+The first week covers two baseline subjects required to work within the field of empirical financial applications.  
 
 The first topic covers the application environment. Therein, we cover the structure and use of the R Markdown file, on which we will write all of the subjects covered during the Lab sessions. We offer a discussion as how to create a markdown file, what makes these files so special in empirical research, how to organise and shuffle them as well as their connectivity to latex. Especially, we will consider how to write functions, how to add text-based outputs, how to construct and use coding cells as well as how to render the files.
 
